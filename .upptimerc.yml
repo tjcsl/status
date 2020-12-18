@@ -6,21 +6,21 @@ repo: status # Your Github repository name
 sites:
   - name: Ion
     url: https://ion.tjhsst.edu
+    maxResponseTime: 2000
+
+  - name: Director
+    url: https://director.tjhsst.edu
+    maxResponseTime: 2000
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.tjhsst.edu
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars1.githubusercontent.com/u/5313020
   name: CSL Status
   introTitle: "TJHSST Computer Systems Lab Status"
   introMessage: ""
-  navbar:
-    - title: Status
-      href: /
-    - title: Ion
-      href: https://ion.tjhsst.edu/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
