@@ -11,6 +11,26 @@ sites:
   - name: Director
     url: https://director.tjhsst.edu
     maxResponseTime: 2000
+  
+  - name: Webmail
+    url: https://webmail.tjhsst.edu
+    maxResponseTime: 2000
+
+  - name: Jupyterhub
+    url: https://jupyterhub.tjhsst.edu
+    maxResponseTime: 2000
+
+  - name: Othello
+    url: https://othello.tjhsst.edu
+    maxResponseTime: 2000
+
+  - name: Tiny (URL shortner)
+    url: https://tiny.tjhsst.edu
+    maxResponseTime: 2000
+
+  - name: SSO (Authentication)
+    url: https://sso.tjhsst.edu
+    maxResponseTime: 2000
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
