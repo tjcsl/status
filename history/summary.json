@@ -4,17 +4,39 @@
     "url": "https://ion.tjhsst.edu",
     "icon": "https://favicons.githubusercontent.com/ion.tjhsst.edu",
     "slug": "ion",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 370,
     "timeDay": 370,
     "timeWeek": 370,
     "timeMonth": 370,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-18": 0
+    }
+  },
+  {
+    "name": "Director",
+    "url": "https://director.tjhsst.edu",
+    "icon": "https://favicons.githubusercontent.com/director.tjhsst.edu",
+    "slug": "director",
+    "status": "down",
+    "uptime": "20.02%",
+    "uptimeDay": "20.02%",
+    "uptimeWeek": "20.02%",
+    "uptimeMonth": "20.02%",
+    "uptimeYear": "20.02%",
+    "time": 53,
+    "timeDay": 53,
+    "timeWeek": 53,
+    "timeMonth": 53,
+    "timeYear": 53,
+    "dailyMinutesDown": {
+      "2020-12-18": 0
+    }
   }
 ]
