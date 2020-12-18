@@ -4,19 +4,19 @@
     "url": "https://ion.tjhsst.edu",
     "icon": "https://favicons.githubusercontent.com/ion.tjhsst.edu",
     "slug": "ion",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 370,
-    "timeDay": 370,
-    "timeWeek": 370,
-    "timeMonth": 370,
-    "timeYear": 370,
+    "status": "degraded",
+    "uptime": "96.93%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "96.93%",
+    "time": 1216,
+    "timeDay": 1216,
+    "timeWeek": 1216,
+    "timeMonth": 1216,
+    "timeYear": 1216,
     "dailyMinutesDown": {
-      "2020-12-18": 0
+      "2020-12-18": 17
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://director.tjhsst.edu",
     "icon": "https://favicons.githubusercontent.com/director.tjhsst.edu",
     "slug": "director",
-    "status": "down",
-    "uptime": "6.68%",
-    "uptimeDay": "6.68%",
-    "uptimeWeek": "6.68%",
-    "uptimeMonth": "6.68%",
-    "uptimeYear": "6.68%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "status": "up",
+    "uptime": "0.46%",
+    "uptimeDay": "0.46%",
+    "uptimeWeek": "0.46%",
+    "uptimeMonth": "0.46%",
+    "uptimeYear": "0.46%",
+    "time": 60,
+    "timeDay": 60,
+    "timeWeek": 60,
+    "timeMonth": 60,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2020-12-18": 0
+      "2020-12-18": 17
     }
   }
 ]
