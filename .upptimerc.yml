@@ -40,7 +40,7 @@ status-website:
   logoUrl: https://avatars1.githubusercontent.com/u/5313020
   name: CSL Status
   introTitle: "TJHSST Computer Systems Lab Status"
-  introMessage: "The content on this page is automatically updated approximately every 15 minutes. This status page is not inclusive of all CSL services, but it includes many popular ones. If you have any questions, feel free to contact us with questions at sysadmins - at - tjhsst - dot - edu."
+  introMessage: "The content on this page is automatically updated approximately every 20 minutes. This status page is not inclusive of all CSL services, but it includes many popular ones. If you have any questions, feel free to contact us at sysadmins - at - tjhsst - dot - edu."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
